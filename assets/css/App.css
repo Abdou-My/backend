@@ -1,0 +1,25 @@
+.centerdiv{
+    margin: auto;
+    width: 30%;
+    border:5px ridge rgb(10, 145, 236);
+    padding: 10px;
+    margin-top : 25vh;
+    background-color: rgb(165, 226, 250);
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.centerContent{
+    margin: auto;
+    width: 80%;
+    background-color: rgb(165, 226, 250);
+    padding: 10px;
+    margin-top : 50vh; 
+}
+.oll{
+    background-color: red;
+    color: blue;
+}
+.container{
+    margin-top: 100px;
+}
